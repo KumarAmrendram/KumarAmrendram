@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/theamrendram" target="blank"><img src="https://img.shields.io/twitter/follow/theamrendram?logo=twitter&style=for-the-badge" alt="theamrendram" /></a> </p>
 
-- 🔭 I’m currently working on **>.NET**
+- 🔭 I’m currently working on **.NET**
 
 - 🌱 I’m currently learning **AWS**
 
